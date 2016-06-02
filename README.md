@@ -1,2 +1,2 @@
-# paulipu.gibhub.io
+# paulipu.github.io
 Personal webpage
