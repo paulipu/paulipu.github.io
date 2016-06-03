@@ -1,0 +1,133 @@
+@proceeding{ChristiansenRW:Noirsu,
+title = {Noise reduction in speech using a modified LMS? adaptive predictive 
+filter.},
+author = {R. W. Christiansen and D. M. Chabries and D. Andersen},
+pages = {1100 -- 2 vol.2},
+year = {1985},
+booktitle = {Seventh Annual Conference of the IEEE/Engineering in Medicine and 
+Biology Society. Frontiers of Engineering and Computing in Health 
+Care - 1985, 27-30 Sept. 1985, Chicago, IL, USA},
+editor = {Lin, JC; Feinberg, BN},
+publisher = {New York, NY, USA : IEEE, 1985},
+abstract = {A modified version of 'leaky weight' LMS adaptive filter is applied 
+to the problem of noise suppression with speech present. It is shown 
+that noise may be suppressed while preserving speech components 
+essential to intelligibility by appropriately choosing algorithm 
+parameters. (10 refs.)},
+copyright = {(c)2005 IEE},
+}
+
+@article{HARRISRW:Useads,
+title = {Use of adaptive digital signal processing to improve speech 
+communication for normally hearing and heating-impaired subjects.},
+author = {R. W. HARRIS and R. H. BREY and M. S. ROBINETTE and D. M. CHABRIES 
+and R. W. CHRISTIANSEN and R. G. JOLLEY},
+journal = {Journal of Speech and Hearing Research},
+volume = {31},
+number = {2},
+pages = {265 -- 71},
+month = {JUN},
+year = {1988},
+publisher = {USA : 1988},
+abstract = {A two microphone adaptive digital noise cancellation technique was 
+used to improve word-recognition ability of normally hearing and 
+hearing-impaired subjects in the presence of varying amounts of 
+multitalker speech babble noise and speech spectrum noise. 
+Signal-to-noise ratios varied from -8 dB to +12 dB in 4 dB 
+increments. The adaptive noise cancellation technique resulted in 
+reducing both the speech babble and speech spectrum noises 18 to 22 
+dB. This reduction in noise resulted in average improvements in word 
+recognition, at the poorest signal-to-noise ratios, ranging from 37% 
+to 50% for the normally hearing subjects and 27% to 40% for the 
+hearing-impaired subjects. Improvements in word recognition in the 
+presence of speech babble noise as a result of adaptive filtering 
+were just as large or larger than improvements found in the presence 
+of speech spectrum noise. The amount of improvement of 
+word-recognition scores was most pronounced at the least favorable 
+signal-to-noise ratios. (24 refs.)},
+institution = {BRIGHAM YOUNG UNIV, COMMUN SCI & DISORDERS AREA, 131TLRB, PROVO, UT 
+84602; MAYO CLIN & MAYO FDN, ROCHESTER, MN 55905},
+copyright = {(c)2005 IEE; The Thomson Corporation},
+}
+
+@article{CHRISTIANSENRW:NOIRIS,
+title = {NOISE REDUCTION IN SPEECH USING ADAPTIVE FILTERING 1. SIGNAL 
+PROCESSING ALGORITHMS},
+author = {R. W. CHRISTIANSEN and D. M. CHABRIES and D. LYNN},
+journal = {Journal of the Acoustical Society of America},
+volume = {71},
+number = {SUPPL. 1},
+pages = {S7 -- S8},
+year = {1982},
+booktitle = {103RD MEETING OF THE ACOUSTICAL SOCIETY OF AMERICA, CHICAGO, ILL., 
+USA, APR. 26-30, 1982. J ACCOUST SOC AM.},
+copyright = {(c)2005 The Thomson Corporation},
+}
+
+@article{CHRISTIANSENRW:NOIISU,
+title = {NOISE-REDUCTION IN SPEECH USING A MODIFIED LMS ADAPTIVE PREDICTIVE 
+FILTER},
+author = {R. W. CHRISTIANSEN and D. M. CHABRIES and D. ANDERSEN},
+journal = {IEEE TRANSACTIONS ON BIOMEDICAL ENGINEERING},
+volume = {32},
+number = {10},
+pages = {899 -- 899},
+year = {1985},
+publisher = {IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC},
+copyright = {(c)2005 The Thomson Corporation},
+}
+
+@article{BreyRobertH.:IMPISI,
+title = {IMPROVEMENT IN SPEECH INTELLIGIBILITY IN NOISE EMPLOYING AN ADAPTIVE 
+FILTER WITH NORMAL AND HEARING-IMPAIRED SUBJECTS.},
+author = {Robert H. Brey and Martin S. Robinette and Douglas M. Chabries and 
+Richard W. Christiansen},
+journal = {J Rehabil Res Dev},
+volume = {24},
+number = {4},
+pages = {75 -- 86},
+month = {Fall},
+year = {1987},
+abstract = {Two-microphone noise cancelling using an LMS (least mean square) 
+adaptive filter in real time was used to process speech recorded in 
+the presence of speech-spectrum noise at six different 
+signal-to-noise ratios, minus 8, minus 4, 0, 4, 8, and 12 db. Twelve 
+normal-hearing and 11 sensorineural hearing-impaired subjects were 
+tested. Results indicated mean improvement of 37. 34 percent for the 
+12 normal-hearing subjects and 38. 3 percent for 5 of the 
+sensorineural hearing-impaired subjects. Individual data for the 5 
+remaining hearing-impaired subjects revealed severe speech 
+intelligibility deficits when noise and reverberation contaminated 
+the speech signal. It is proposed that rehabilitative audiological 
+assessments include evaluation of an individual's ability to cope 
+with reverberation and noise. (24 Refs.)},
+copyright = {(c)2005 Elsevier Engineering Information, Inc.},
+}
+
+@article{ChabriesDouglasM.:APPOAD,
+title = {APPLICATION OF ADAPTIVE DIGITAL SIGNAL PROCESSING TO SPEECH 
+ENHANCEMENT FOR THE HEARING IMPAIRED.},
+author = {Douglas M. Chabries and Richard W. Christiansen and Robert H. Brey 
+and Martin S. Robinette and Richard W. Harris},
+journal = {J Rehabil Res Dev},
+volume = {24},
+number = {4},
+pages = {65 -- 74},
+month = {Fall},
+year = {1987},
+abstract = {This paper describes the concept of adaptive noise cancelling for 
+removing noise from corrupted speech signals. The Widrow-Hoff LMS 
+(least mean square) algorithm developed in 1959 forms the 
+introduction to modern adaptive signal processing. By subtracting the 
+adaptively filtered estimate of the noise, the desired speech signal 
+is obtained. Recent developments in the field as they relate to noise 
+cancellation are described. A second method for removing noise from 
+speech, for use when no independent reference for the noise exists, 
+is referred to as single channel noise suppression. Current 
+techniques applied to this problem are described, including signal 
+processing techniques that offer promise in the noise suppression 
+application. (33 Refs.)},
+copyright = {(c)2005 Elsevier Engineering Information, Inc.},
+
+
+}
