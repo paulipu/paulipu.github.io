@@ -665,7 +665,8 @@ Pacman.Map = function (size, course_color) {
 
             if (layout === Pacman.BISCUIT) {
                 //ctx.fillStyle = course_color;
-                ctx.fillStyle = "#444444";
+//                ctx.fillStyle = "#444444"; //This is the biscuit color (the dots that Pacman needs to eat)
+                ctx.fillStyle = "#44aaaa"; //This is the biscuit color (the dots that Pacman needs to eat)
                 ctx.fillRect((x * blockSize) + (blockSize / 2.5),
                              (y * blockSize) + (blockSize / 2.5), 
                              blockSize / 6, blockSize / 6);
